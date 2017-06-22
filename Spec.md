@@ -189,7 +189,7 @@ Need variable for defining background color
 Need variable for defining terms text color
 ```
 
-## Test Cases
+## Scope
 - Component should work across all major browsers - Chrome / Mozilla / Safari / Opera / IE etc.
 - Verify all exposed public properties are working independently and with complex combination.
 - Verify all exposed methods and events are working.
@@ -203,8 +203,12 @@ Need variable for defining terms text color
 - When to capture all passengers' information will be derived form APIs.
 - "Choose guest" drop down will be available from room 2 and will populate the passengers list entered in room 1 & so on to other rooms.
 - After selection of guest from drop down will show information in expanded view with cross icon and click on cross will reset to previous position
+- The guest dropdown will say "choose guest" and on click will display list of available passengers (First and Last Name) with default "Add new".
+- Click behavior of "Add new" is same as of "Cross"
+- "Choose guest" and "Add new" label should be drived from resources.
 - All label like Adult 1 (12+ yrs), child 1 (< 11 yrs) etc. and validation error messages will be managed from resources.
 - For now user info component is showing Title, first and last name in single line but suppose some business owner don't want to capture "title" in user-info, In that case business owner can hide "title" field and "first" & "last" name field should equally distribute the vacant position. Similar behavior applies to other fields.
+
 
 ## Steps to Start
 - Set Github repository at your end for this project, we will merge them later
