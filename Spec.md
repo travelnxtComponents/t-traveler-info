@@ -123,7 +123,7 @@
             "error": "Contact number is required",
         },
         "newGuest" : "New Guest",
-        "loyalityProgram" : "Loyalty program (optional)"
+        "loyaltyProgram" : "Loyalty program (optional)"
     }
 }
 ```
