@@ -122,7 +122,8 @@
             "info": "In case of any notifications our agent will reach you on this number",
             "error": "Contact number is required",
         },
-        "newGuest" : "New Guest"
+        "newGuest" : "New Guest",
+        "loyalityProgram" : "Loyalty program (optional)"
     }
 }
 ```
